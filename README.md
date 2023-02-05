@@ -1,5 +1,3 @@
-# pixelflut [![Build Status](https://github.com/ffflorian/pixelflut/workflows/Build/badge.svg)](https://github.com/ffflorian/pixelflut/actions/)
+# pixelflut
 
-## Usage
-
-- See [CLI](./src/cli.ts)
+# This repository was moved to https://github.com/ffflorian/node-packages/tree/main/packages/pixelflut.
